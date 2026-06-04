@@ -1,0 +1,2 @@
+# temple-restoration-fundraising-minutes
+寺庙修缮募捐会议功德纪要全栈系统——前端以古风界面展示殿堂病害与修缮方案，后端处理住持与工匠对话，Whisper转写木构替换与彩绘重绘细节，pyannote标记寺方与设计方，OpenAI生成募捐文案与功德回向清单，Markdown邮寄信众
